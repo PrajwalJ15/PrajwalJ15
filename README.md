@@ -6,8 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=PrajwalJ15&color=brightgreen)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrajwalJ15" alt="PrajwalJ15" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrajwalJ15" alt="PrajwalJ15" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
 - 🌱 I’m currently doing **DevOps** and **Linux Administration**
 - 👨‍💻 All of my projects are available at **github**
